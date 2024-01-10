@@ -1,0 +1,56 @@
+.recherche {
+  display: flex;
+  height: 1cm;
+  width: 0cm;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center;
+   
+
+
+}
+.href{
+
+  display: flex;
+  margin: auto;
+  flex-direction: row;
+  justify-content: right;
+
+}
+.img{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 3cm;
+}
+.lien{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+  position:fixed;
+  bottom: 0;
+  background-color:whitesmoke;
+}
+  
+.videeee{
+background-color: black;
+background-position: center;
+}
+
+.france{
+  display: flex; 
+  flex-direction: row;
+  background-color:whitesmoke ;
+  background-size:auto ;
+  
+}
+
+.bouttons{
+  display: flex;
+  height: auto;
+  width: auto;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center; 
+
+}
